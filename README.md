@@ -44,11 +44,11 @@
 
 | # | # | # | # |
 | :------------ | :--------------- | :----- | :----- 
-| <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-HTML5-0D1117?style=flat-square&logo=html5&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Windows-0D1117?style=flat-square&logo=Windows&logoColor=F0DB4F"> |
+| <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-HTML5-0D1117?style=flat-square&logo=html5&logoColor=F0DB4F"> | 
 | <img src="https://img.shields.io/badge/-TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-CSS3-0D1117?style=flat-square&logo=css3&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git&logoColor=F0DB4F"> | 
-| <img src="https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-SASS-0D1117?style=flat-square&logo=sass&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Remix-0D1117?style=flat-square&logo=remix&logoColor=F0DB4F"> | 
-| <img src="https://img.shields.io/badge/-Next.js-0D1117?style=flat-square&logo=next.js&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-TailwindCSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-MySQL-0D1117?style=flat-square&logo=mysql&logoColor=F0DB4F"> |
-| <img src="https://img.shields.io/badge/-Node.js-0D1117?style=flat-square&logo=Node.js&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Styled Component-0D1117?style=flat-square&logo=styledcomponents&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Canva-0D1117?style=flat-square&logo=canva&logoColor=F0DB4F"> | 
+| <img src="https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react&logoColor=F0DB4F"> |  | <img src="https://img.shields.io/badge/-Remix-0D1117?style=flat-square&logo=remix&logoColor=F0DB4F"> | 
+| <img src="https://img.shields.io/badge/-Next.js-0D1117?style=flat-square&logo=next.js&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-TailwindCSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=F0DB4F"> | |
+|  | <img src="https://img.shields.io/badge/-Styled Component-0D1117?style=flat-square&logo=styledcomponents&logoColor=F0DB4F"> |  | 
 | <img src="https://img.shields.io/badge/-Solidity-0D1117?style=flat-square&logo=solidity&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-ChakraUi-0D1117?style=flat-square&logo=chakraui&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Figma-0D1117?style=flat-square&logo=figma&logoColor=F0DB4F">  | 
 | <img src="https://img.shields.io/badge/-Rust-0D1117?style=flat-square&logo=rust&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Ethereum-0D1117?style=flat-square&logo=ethereum&logoColor=F0DB4F">  | <img src="https://img.shields.io/badge/-VSCode-0D1117?style=flat-square&logo=visualstudio&logoColor=F0DB4F">  | <br>
 
