@@ -1,8 +1,12 @@
 <!-- animation start  -->
 
 <!-- animation start  -->
+<!-- animation start  -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=25&duration=4000&pause=500&color=FF8000&center=true&vCenter=true&width=665&height=55&lines=Hey%2C+I'm+Faisal+Abbas;I+am+a+passionate+frontend+developer;I+have+strong+skills+in+HTML%2C+CSS%2C+JavaScript%2C+TypeScript%2C+React+JS%2C+and+Next+JS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=25&duration=4000&pause=500&color=FF8000&center=true&vCenter=true&width=800&height=55&lines=I'm+Faisal+Abbas;%E2%9C%A8+Frontend+Developer+Extraordinaire+%E2%9C%A8;Crafting+Beautiful+and+Responsive+Web+Designs;Expert+in+HTML%2C+CSS%2C+JavaScript%2C+and+TypeScript;Building+Interactive+UIs+with+React+JS+and+Next+JS)](https://git.io/typing-svg)
+
+<!-- animation end  -->
+
 
 <!-- animation end  -->
 
