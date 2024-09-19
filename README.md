@@ -3,7 +3,7 @@
 <!-- animation start  -->
 <!-- animation start  -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=25&duration=4000&pause=500&color=FF8000&center=true&vCenter=true&width=800&height=55&lines=I'm+Faisal+Abbas;%E2%9C%A8+FUll Stack+Developer+Extraordinaire+%E2%9C%A8;Crafting+Beautiful+and+Responsive+Web+Designs;Expert+in+HTML%2C+CSS%2C+JavaScript%2C+and+TypeScript;Building+Interactive+UIs+with+React+JS+and+Next+JS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=25&duration=4000&pause=500&color=FF8000&center=true&vCenter=true&width=800&height=55&lines=I'm+Faisal+Abbas;%E2%9C%A8+FUll+Stack+Developer+Extraordinaire+%E2%9C%A8;Crafting+Beautiful+and+Responsive+Web+Designs;Expert+in+HTML%2C+CSS%2C+JavaScript%2C+and+TypeScript;Building+Interactive+UIs+with+React+JS+and+Next+JS)](https://git.io/typing-svg)
 
 <!-- animation end  -->
 
