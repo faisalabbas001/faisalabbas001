@@ -17,8 +17,8 @@
 
 <hr>
 <h3 style="margin-top: 4px;">Hi there, I'm Faisal Abbas ! 👋</h3>
-• 💪🏻 I am a passionate Front-End Developer with a strong foundation in HTML, CSS, JavaScript, TypeScript, React.js, and Next.js..<br>
-• 👨‍💻 I'm a fronted  Developer from Pakistan.<br>
+• 💪🏻 I am a passionate Full Stack Developer with a strong foundation in HTML, CSS, JavaScript, TypeScript, React.js, and Next.js ,Node JS ,Express JS ,MongoDB,MySql..<br>
+• 👨‍💻 I'm a Full Stack Developer from Pakistan.<br>
 • 🌱With a keen eye for design and a commitment to delivering seamless user experiences.<br> 
 • 📗  I am dedicated to pushing the boundaries of web development..<br>
 • 🚀 I'm a Consistent, Hard-working, and a Motivated person.<br> 
